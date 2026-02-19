@@ -4,7 +4,7 @@ An embedded environmental monitoring and protection system designed to support b
 
 This project demonstrates smart environmental monitoring and automatic response logic.
 
----
+--- 
 
 ## Overview
 
